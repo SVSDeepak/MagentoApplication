@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-22T20:28:05 IST" name="Suite" finished-at="2025-03-22T20:31:21 IST" duration-ms="196783">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-03-22T20:28:05 IST" name="Test" finished-at="2025-03-22T20:31:21 IST" duration-ms="196783">
+      <class name="com.Magento.TestRunner.magentoAppTestNGTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:28:05 IST" name="setUpClass" finished-at="2025-03-22T20:28:05 IST" duration-ms="481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5c04ec8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:28:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-22T20:28:21 IST" duration-ms="15887" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To check the Creating New customer account page with valid and invalid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking User Registration"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:28:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-22T20:28:34 IST" duration-ms="13408" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To check SignIn functionality with valid and invalid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking SignIn functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:28:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-22T20:29:17 IST" duration-ms="42903" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Auto suggestion feature in search and addition of product in the cart."]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking Login,product search,Adding product to cart"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:29:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-22T20:30:11 IST" duration-ms="53474" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Adding Multiple Products to Cart & Validating Cart Summary"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["validating products in cart"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:30:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-22T20:30:39 IST" duration-ms="28434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To check chekout process with valid and invalid data"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking the checkout process"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:30:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-03-22T20:31:21 IST" duration-ms="42065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking logging out functionality and verifying session ending."]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Checking the logout functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.Magento.TestRunner.magentoAppTestNGTestRunner@147a5d08]" started-at="2025-03-22T20:31:21 IST" name="tearDownClass" finished-at="2025-03-22T20:31:21 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.Magento.TestRunner.magentoAppTestNGTestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

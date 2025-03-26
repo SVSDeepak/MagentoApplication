@@ -1,0 +1,14 @@
+com\Magento\TestRunner\validatingcartSummaryTestRunner.class
+com\Magento\StepDefinition\userRegistrationStepDefinition.class
+com\Magento\TestRunner\signInFunctionTestRunner.class
+com\Magento\TestRunner\userRegistrationTestRunner.class
+com\Magento\TestRunner\checkOutProcessverificationTestRunner.class
+com\Magento\TestRunner\loggingOutFunctionalityTestRunner.class
+com\Magento\Hooks\hooks.class
+com\Magento\TestRunner\productSelectionTestRunner.class
+com\Magento\StepDefinition\loggingOutFunctionalityStepDefinition.class
+com\Magento\StepDefinition\productSelectionStepDefinition.class
+com\Magento\StepDefinition\signInFunctionStepDefinition.class
+com\Magento\StepDefinition\checkOutProcessStepDefinition.class
+com\Magento\TestRunner\magentoAppTestNGTestRunner.class
+com\Magento\StepDefinition\validatingCartSummaryStepDefinition.class
